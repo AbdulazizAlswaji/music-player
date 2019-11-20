@@ -1,0 +1,48 @@
+
+7tygguyguy
+artist: 
+"محمد عبده"
+cover: 
+"artworks-000611528878-764xo8-t500x500.jpg"
+file: 
+"IROEF3x4RRMV0EI__x-AZZxX4-_4MV0EI__x-4430xFKFK0..."
+title: 
+"مس ةرد الحد"
+type: 
+"song"
+
+
+
+id : {
+    artist: 
+    cover:
+    file:
+    title:
+    type: song
+}
+
+=======================================================
+
+juj89uih
+cover: 
+"artworks-000611528878-764xo8-t500x500.jpg"
+title: 
+"جلسة خاصة"
+tracks
+song
+0: 
+"kjhuy6g5"
+1: 
+"7tygguyguy"
+type: 
+"playlist"
+
+
+id: {
+    cover:
+    title:
+    tracks: {
+        songs: []
+    }
+}
+
