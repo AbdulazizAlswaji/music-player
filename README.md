@@ -1,4 +1,3 @@
-# Music player webapp
+# Music player webapp 
 
-Playing music and audio files on a web application using PHP as a backend language to fetch data from firebase NoSQL database.
-
+A web application that retrieves a specific  path from firebase to paly its music on the browser using Howler.js
